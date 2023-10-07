@@ -1,0 +1,5 @@
+@import url("plugins/datatables/dataTables.bootstrap.css");
+
+.btn-hidden{
+	display: none;
+}
